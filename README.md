@@ -2,8 +2,8 @@
 
 # AWS Webinar From Auto complete
 
-![demo1]("demo/screenshot.jpg")
-![demo2]("demo/screenshot2.jpg")
+![demo1](demo/screenshot.jpg)
+![demo2](demo/screenshot2.jpg)
 
 
 同じ作業を二度やりたくない人のChrome拡張
