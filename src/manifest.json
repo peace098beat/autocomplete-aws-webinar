@@ -1,6 +1,6 @@
 {
   "name": "AWS Webinar Form Auto Complete",
-  "version": "1.0.0",
+  "version": "0.9.1",
   "manifest_version": 2,
   "description": "Auto Complete for AWS Webinar form",
   "icons":  {
@@ -8,11 +8,10 @@
         "32": "icons/icon_32x32.png",
         "128": "icons/icon_128x128.png"
       },
-          
+
   "permissions": [
         "tabs",
-        "http://*/*",
-        "https://*/*"
+        "https://pages.awscloud.com/*"
     ],
   "content_scripts": [{
     "matches": ["https://pages.awscloud.com/*"],
