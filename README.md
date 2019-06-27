@@ -10,6 +10,15 @@
 画面の個人情報の入力を自動化するエクステンション
 
 
+## Download 
+
+chrome ウェブストアに限定公開しています
+
+[AWS Webinar Form Auto Complete | Chrome webstop](https://chrome.google.com/webstore/detail/ncnghphcmcooafemgcclhgmhadjkccnk/publish-accepted?hl=ja&gl=JP)
+
+
+## Feature
+
 1. 保存機能
  - クッキーに保存. [TODO] どこに保存する方が良いのかはご指摘もらう
 
